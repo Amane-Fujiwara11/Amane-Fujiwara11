@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello!
+
 ## My Github Status 🔭
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amane-Fujiwara11&theme=2077)
