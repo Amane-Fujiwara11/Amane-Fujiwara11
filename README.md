@@ -6,7 +6,7 @@ Hello!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amane-Fujiwara11&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amane-Fujiwara11&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amane-Fujiwara11&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amane-Fujiwara11&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
