@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Hello!
+I'm Amane!
+Nice to meet you!
 
 ## My Github Status 🔭
 
